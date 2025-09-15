@@ -1,0 +1,7 @@
+[
+  { "hip": 32349, "name": "Sirius", "ra": 6.752, "dec": -16.716, "mag": -1.46 },
+  { "hip": 24608, "name": "Capella", "ra": 5.278, "dec": 46.000, "mag": 0.08 },
+  { "hip": 27989, "name": "Rigel", "ra": 5.242, "dec": -8.201, "mag": 0.18 },
+  { "hip": 24436, "name": "Aldebaran", "ra": 4.598, "dec": 16.509, "mag": 0.87 },
+  { "hip": 37279, "name": "Procyon", "ra": 7.655, "dec": 5.225, "mag": 0.34 }
+]
